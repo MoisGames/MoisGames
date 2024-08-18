@@ -3,4 +3,4 @@
 <h3 align="center">Студент ККРИТ. Frontend JS REACT Разработчик. 🇷🇺</h3>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
-
+<h4>[![trophy](https://github-profile-trophy.vercel.app/?username=Moisgames)](https://github.com/ryo-ma/github-profile-trophy) </h4>
