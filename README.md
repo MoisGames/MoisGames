@@ -6,5 +6,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisgames" />
 <p>О себе:</p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisgames" />
-<p>Мой Тelegram: <img src="https://w7.pngwing.com/pngs/419/837/png-transparent-telegram-icon-telegram-logo-computer-icons-telegram-blue-angle-triangle.png" /> @Vladislav981010</p>
-
+<p>Мой Тelegram: <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" /> @Vladislav981010</p>
+Почта : vlad981010@gmail.com
