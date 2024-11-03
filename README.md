@@ -7,5 +7,5 @@
 <p>О себе:</p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisgames" />
 <p>Мой Тelegram:
-<img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" /> t.me/Vladislav981010</p>
+t.me/Vladislav981010</p>
 Почта : vlad981010@gmail.com
