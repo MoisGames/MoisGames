@@ -6,6 +6,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisgames" />
 <p>О себе:</p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisgames" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MoisGames)](https://git.io/streak-stats)
 <p>Мой Тelegram:
 t.me/Vladislav981010</p>
 Почта : vlad981010@gmail.com
