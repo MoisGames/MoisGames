@@ -1,3 +1,4 @@
+<div display="flex" flex-direction="column" justify-content="center">
 <h1 align="center">Hi there, I'm Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Студент ККРИТ. Frontend JS REACT Разработчик. 🇷🇺</h3>
@@ -8,3 +9,4 @@
 <p>Мой Тelegram:
 t.me/Vladislav981010</p>
 Почта : vlad981010@gmail.com
+</div>
