@@ -5,7 +5,6 @@
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
 <p>О себе:</p> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moisgames&show_icons=true&theme=radical" />
-<img src="https://streak-stats.demolab.com/?user=MoisGames" />
 <p>Мой Тelegram:
 t.me/Vladislav981010</p>
 Почта : vlad981010@gmail.com
